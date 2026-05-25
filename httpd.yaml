@@ -31,5 +31,5 @@ spec:
     app: httpd
   ports:
     - protocol: TCP
-      port: 90000
+      port: 9000
       targetPort: 9000
